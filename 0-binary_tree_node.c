@@ -5,6 +5,7 @@
  *
  * @parent: parent to the node
  * @value: the value to be stored by the node
+ * Return: newly created node
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
