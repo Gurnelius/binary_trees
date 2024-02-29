@@ -3,7 +3,7 @@
  * binary_tree_sibling - get the sibling of a node
  * @node: pointer to the node
  *
- * Return: sibling's node, NULL if not found
+ * Return: node's sibling, NULL if not found
  * or parent is NULL.
  */
 binary_tree_t *binary_tree_sibling(binary_tree_t *node)
